@@ -15,6 +15,10 @@ a) Right click on your new app and select "Run"
 
 b) Take a moment to become familar with the app and see what it has to offer
 
+<p align="left">
+  <img src="https://github.com/kangaroo-d/Basemap-Tutorial-QT-Creator-/blob/master/stockbase.jpg" width="350"/>
+</p>
+
 <h2> Step 3: Open up the editor</h2> 
 
 a) Right click on the app and select "Edit in Qt Editor" 
