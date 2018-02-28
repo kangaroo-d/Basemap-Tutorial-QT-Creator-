@@ -40,4 +40,16 @@ Map {
                     }
 ```
 
-<h2> Saving </h2>
+<h2> Step 5: Saving </h2>
+
+a) In order to process these changes we need to save the files
+
+b) In the Qt editor window, select "File" + "Save All" 
+
+c) Exit it out the window 
+
+<h2> Step 6: Review </h2> 
+
+a) On your new app, right click and select "run"
+
+b) You should now see a new basemap, congratulations! 
