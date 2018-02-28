@@ -21,7 +21,7 @@ a) Right click on the app and select "Edit in Qt Editor"
 
 b) This opens up a editor and shows a QML file for your app labeled as "MyApp.qml"
 
-<h2> Step 4: Changing the basemap 
+<h2> Step 4: Changing the basemap </h2>
 
 a) Scroll down in the QML file code and find the section under "Map" listed as "Basemap"
 
