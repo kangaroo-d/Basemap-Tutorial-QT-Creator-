@@ -53,3 +53,7 @@ c) Exit it out the window
 a) On your new app, right click and select "run"
 
 b) You should now see a new basemap, congratulations! 
+
+<p align="center">
+  <img src="https://github.com/kangaroo-d/Basemap-Tutorial-QT-Creator-/blob/master/sandeigo.jpg" width="350"/>
+</p>
